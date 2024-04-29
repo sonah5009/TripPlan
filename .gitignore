@@ -1,0 +1,4 @@
+myvenv
+.env
+.env.local
+.DS_Store
