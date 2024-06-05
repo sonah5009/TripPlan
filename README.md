@@ -14,6 +14,9 @@ rename `.env`
 MYDIR = "" <= input your path  
 DBFILE = "chatbot.db" <= you can change database file name
 
+**flask**
+`pip install Flask`
+
 **in the Terminal**  
 environments:
 `pip install -r requirements.txt`

@@ -15,7 +15,7 @@ from chatbot.chatbot import Chatbot
 
 MYDIR = ""  # input your path
 DBPATH = "database"
-DBFILE = "chatbot_v5.db"  # you can change database file name
+DBFILE = "chatbot.db"  # you can change database file name
 
 app = Flask(__name__)
 
