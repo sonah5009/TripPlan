@@ -4,7 +4,11 @@
 
 - python version: 3.10.5
 - input openai api key in `chatbot/openai.py` and `.env` file
+
   - you can ask api key through MS teams chat (name: Choe Suna)
+
+**edit file name `.env_`**  
+rename `.env`
 
 **path setting** in `app.py` file:  
 MYDIR = "" <= input your path  
